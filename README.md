@@ -27,6 +27,8 @@ A curated list of official APIs owned by government of India.
 <li><a href="https://data.gov.in/ogpl_apis">Open Government Data (OGD) Platform India</a> </li>
 
 <li><a href="https://data.gov.in/ogpl_apis">Open Government Data (OGD) Platform India</a>  </li>
+<li><a href="https://data.gov.in/ogpl_apis">Open Government Data (OGD) Platform India</a>  </li>
+
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
 <li><a href="   "> </a> </li>
